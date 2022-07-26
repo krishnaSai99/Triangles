@@ -4,8 +4,8 @@ const clickbutton = document.querySelector(".click-button")
 const output1 = document.querySelector("#output")
 
 function calculatesum(angle1, angle2, angle3) {
-    const sumangle = angle1 + angle2 + angle3
-    return sumangle
+    const sumofangle = angle1 + angle2 + angle3
+    return sumofangle
 }
 
 function istriangle() {
